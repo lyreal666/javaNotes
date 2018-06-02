@@ -1,4 +1,4 @@
-package com.company;
+package com.company.comment;
 /**
  * 这是文档注释
  * 多行注释不能嵌套

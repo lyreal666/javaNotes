@@ -1,4 +1,4 @@
-package com.company;
+package com.company.datatype;
 
 /**
  * java有8种数据类型
@@ -13,7 +13,10 @@ public class Datetype {
 class TestBoolean {
     public void test() {
         // boolean t = 0; // 报错: 不兼容的类型,无法转换
-
+        //避免了c++中允许转换导致下面错误不能被编译器检查出来
+//        if (x = 0) {
+//            System.out.println(1);
+//        }
 
     }
 }

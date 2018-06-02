@@ -1,4 +1,4 @@
-```$xslt
+```java
 /*
          * java整形有byte,short,int,long
          * 占内存字节大小分别为1,2,4,8
@@ -64,3 +64,7 @@
         // 不要在非字符串部分使用\u,因为你不知道\u会被转义成什么玩意,或者无法转义报exception
 
 ```
+一些博客:
+[从对象深入分析 Java 中实例变量和类变量的区别](https://juejin.im/entry/590da769da2f6000534d1ea6)
+[Java基本数据类型和引用类型 - Java那些事儿](https://juejin.im/entry/59cd73685188255e723bca92)
+[Java 基本数据类型基础面试题](https://juejin.im/entry/59dee2ee6fb9a04517043068)
