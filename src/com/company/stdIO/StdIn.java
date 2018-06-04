@@ -32,5 +32,4 @@ public class StdIn {
 //        System.out.println(stdIn.hasNext());
 //        System.out.println(stdIn.hasNextInt());
     }
-
 }
